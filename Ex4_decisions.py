@@ -29,6 +29,17 @@
 
 # Write your code below:
 
+##. ===================================
+age = int(input("Enter your age: "))
+print("You are", age, "years old.")
+
+##number=input int("enther your number")
+if age==99:
+    print("you are", age, "old elderly person")
+elif age>=35:
+    print("you are young man")
+else:
+    print("yor are a chaild")
 
 # -------------------------------------------
 # Task 2: Add else
